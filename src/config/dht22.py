@@ -1,0 +1,1 @@
+PUBLISH_PERIOD=60 # seconds
